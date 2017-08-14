@@ -1,7 +1,7 @@
 {
-  "name": "realexpayments/rxp-hpp-php",
+  "name": "Yurist-85/rxp-hpp-php",
   "type": "library",
-  "description": "SDK to send requests and parse responses from Realex Payments using HPP",
+  "description": "FORK OF OFFICIAL REPO. SDK to send requests and parse responses from Realex Payments using HPP",
   "keywords": [
     "realex",
     "payments",
